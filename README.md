@@ -1,93 +1,86 @@
-# 🏏 IPL Analytics Dashboard \| Power BI (2008--2025)
+# 🏏 IPL Analytics Dashboard | Power BI (2008–2025)
 
-My first hands-on **Power BI practice project**, built to learn data
-analysis, data visualization, and dashboard design using historical
-Indian Premier League (IPL) data.
+### 📊 My First Hands-on Power BI Project
 
-## 📊 Project Overview
+An interactive IPL Analytics Dashboard built using Microsoft Power BI to analyze historical Indian Premier League data from 2008 to 2025.
 
-**Objective:** Explore IPL data from 2008 to 2025 and present key
-statistics through Power BI visuals.
+This is my first hands-on Power BI practice project, developed to learn data analysis, data visualization, dashboard design, and business intelligence.
 
-### Dashboard Pages
+---
 
-  -----------------------------------------------------------------------
-  Page                    Focus                   What it explores
-  ----------------------- ----------------------- -----------------------
-  **1. IPL Overview**     Tournament summary      Season-wise matches,
-                                                  team wins, total
-                                                  seasons, total matches,
-                                                  total runs, and toss
-                                                  decisions
+## 📌 Project Overview
 
-  **2. Venue & Cities**   Venue analysis          Match locations on a
-                                                  map and venue-wise
-                                                  match distribution
+The objective of this project is to transform raw IPL datasets into meaningful insights through interactive dashboards.
 
-  **3. Player             Player statistics       Top batsmen, leading
-  Performance**                                   wicket-takers, and
-                                                  players ranked by
-                                                  strike rate
+The project explores historical match statistics, team performance, player achievements, stadium distribution, and toss decisions.
 
-  **4. Team Performance** Team comparison         Team-wise match-win
-                                                  distribution, runs
-                                                  distribution, and
-                                                  season-wise trends
-  -----------------------------------------------------------------------
+## 📊 Dashboard Pages
+
+### 1. 🏆 IPL Overview
+- Season-wise match distribution.
+- Matches won by each team.
+- Total seasons, matches, and runs.
+- Toss decision analysis.
+
+### 2. 📍 Venue & Cities
+- City-wise IPL match distribution.
+- Stadium-wise match analysis.
+- Geographical visualization of IPL venues.
+
+### 3. 🏏 Player Performance
+- Top 10 batsmen by runs.
+- Top 10 wicket-takers.
+- Top 10 players by strike rate.
+
+### 4. 🛡️ Team Performance
+- Team-wise match wins.
+- Team-wise runs distribution.
+- Team performance across seasons.
 
 ## 🛠️ Tools & Technologies
 
--   **Microsoft Power BI Desktop** --- dashboard and visualizations
--   **Power Query** --- data loading and preparation
--   **DAX** --- measures and calculations
--   **CSV files** --- source data
+| Tool | Purpose |
+|---|---|
+| Microsoft Power BI Desktop | Dashboard development |
+| Power Query | Data preparation and transformation |
+| DAX | Measures and calculations |
+| Data Modeling | Organizing analytical data |
+| Excel / CSV | Data sources |
 
-## 🗂️ Project Files
+## 📂 Dataset Files
 
--   `IPL_Analytics_Dashboard_2008_2025.pbix` --- Power BI report
--   `matches_updated_ipl_upto_2025.csv` --- match-level data
--   `deliveries_updated_ipl_upto_2025.csv` --- ball-by-ball data
--   `IPL_ball_by_ball_updated` --- additional data file included in the
-    project folder
+- `matches_updated_ipl_upto_2025`
+- `deliveries_updated_ipl_upto_2025`
+- `IPL_ball_by_ball_updated.zip`
 
-*Windows may hide file extensions. Keep the original filenames and
-extensions when uploading.*
+The datasets support match-level and ball-by-ball IPL analysis.
 
-## 💡 What I Practised
+## 🎯 Key Learning Outcomes
 
--   Importing CSV files into Power BI
--   Exploring and preparing datasets
--   Creating bar, line, donut, treemap, map, and card visuals
--   Building DAX measures
--   Comparing teams, players, seasons, and venues
--   Organizing a multi-page dashboard
+- Importing and exploring datasets.
+- Data preparation and transformation.
+- Creating DAX measures.
+- Building interactive visualizations.
+- Designing multi-page dashboards.
+- Analyzing team and player performance.
+- Presenting insights through data visualization.
 
-## ▶️ How to View the Project
+## 💡 Project Details
 
-1.  Download the `.pbix` file and the required CSV files from this
-    repository.
-2.  Open the report in **Microsoft Power BI Desktop**.
-3.  If prompted for data-source paths, select the corresponding CSV
-    files.
-4.  Refresh the data if required.
+- **Project:** IPL Analytics Dashboard
+- **Domain:** Sports Analytics
+- **Tool:** Microsoft Power BI Desktop
+- **Data Coverage:** 2008–2025
+- **Project Type:** Learning and Practice Project
+- **Status:** Initial version completed
 
-## 🎯 Project Purpose
+## 🚀 Future Improvements
 
-This is my **first IPL analytics practice project** as I build my Power
-BI and data-analysis skills. It is a hands-on learning project and a
-foundation for improving data modelling, DAX, visual design, and
-analytical storytelling.
+- Improve dashboard layout and formatting.
+- Add more analytical measures.
+- Enhance interactivity and filtering.
+- Explore additional IPL performance trends.
 
-## ⚠️ Notes
+---
 
--   This is an educational practice project, not an official IPL report.
--   Measures and calculations should be validated before the figures are
-    used for formal analysis.
--   Historical team names and data quality can affect comparisons across
-    seasons.
--   IPL and related names belong to their respective owners. This
-    project is for educational purposes.
-
-------------------------------------------------------------------------
-
-**Built with curiosity and Power BI.** 📈
+⭐ Thank you for visiting my project!
